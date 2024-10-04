@@ -9,6 +9,14 @@ This app was developed for my Databases, Interfaces and Software Design Principl
 Also, Chrome is recommended to demo this app as it has been tested and marked on Chrome only.
 
 YOU ARE ONLY CONCERNED WITH THE FILES UNDER Docker/html. Anything else is taken from the module and either has nothing to do with the project or is just there to ensure it all runs properly.
+
+Usernames include:
+
+username: mnculty - password: plod123
+
+username: moreland - password: fuzz42
+
+admin username: daniels - password: copper99
 ## Table of Contents
 
 - [Included Files](#included-files)
