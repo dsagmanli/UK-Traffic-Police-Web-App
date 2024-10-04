@@ -7,6 +7,8 @@ A web application for the UK traffic police to record traffic incidents, add or 
 This app was developed for my Databases, Interfaces and Software Design Principles module during my Master's. The docker container for this project has been created by my professor Stuart Reeves (stuaart on GitHub), so any files related to the docker are his. The HTML, CSS, PHP and JavaScript files or all the pages under the html directory are mine. The SQL file has originally been written by my professor, but has been modified by me. We were instructed to keep the docker as is, so I even kept the original readme file.
 
 Also, Chrome is recommended to demo this app as it has been tested and marked on Chrome only.
+
+YOU ARE ONLY CONCERNED WITH THE FILES UNDER Docker/html. Anything else is taken from the module and either has nothing to do with the project or is just there to ensure it all runs properly.
 ## Table of Contents
 
 - [Included Files](#included-files)
